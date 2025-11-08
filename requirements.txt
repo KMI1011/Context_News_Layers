@@ -1,0 +1,14 @@
+# Core dependencies for Context NewsFeed Layers
+
+# HTTP requests
+requests>=2.32.0
+
+# Text processing and sentiment analysis
+textblob>=0.19.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# OpenAI API (optional, for advanced summarization)
+openai>=2.7.0
+

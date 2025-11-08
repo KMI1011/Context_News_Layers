@@ -1,0 +1,14 @@
+
+{
+    "folders": [
+        {
+            "path": "context_layer"
+        },
+        {
+            "path": "news_feed_layer"
+        },
+        {
+            "path": "utils"
+        }
+    ]
+}
